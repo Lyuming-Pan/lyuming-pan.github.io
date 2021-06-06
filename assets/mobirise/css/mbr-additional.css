@@ -3670,9 +3670,9 @@ section.lazy-placeholder:after {
   -webkit-flex-shrink: 0;
 }
 .cid-swOgUWbSw5 .img-text {
-  width: 20px;
-  height: 20px;
-  font-size: 10px;
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
   border: 2px solid #efefef;
   border-radius: 50%;
 }
